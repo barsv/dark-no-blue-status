@@ -1,0 +1,22 @@
+{
+    "name": "dark-no-blue-status",
+    "displayName": "Dark+no-blue-status",
+    "description": "It's the same as Dark+ but without blue status bar",
+    "version": "0.0.1",
+    "publisher": "barsv85",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark+ No Blue Status",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark+ No Blue Status-color-theme.json"
+            }
+        ]
+    }
+}

@@ -1,0 +1,2 @@
+# Color theme for vscode that fixes blue status bar for the default dark theme
+The only thing that differs this theme from the default Dark+ theme is that I made the status bar to dark gray instead of screaming blue.
